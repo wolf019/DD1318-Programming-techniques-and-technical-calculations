@@ -1,0 +1,13 @@
+Format: name, solidity, p/e, p/s
+ERIC_B
+29.62
+137.90
+1.12 
+INVE_B
+21.14
+33.26
+0.51
+SAS
+15.79
+15.93
+0.08
