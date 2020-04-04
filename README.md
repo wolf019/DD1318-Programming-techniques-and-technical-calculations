@@ -12,6 +12,7 @@
 * analysis is used from at least when the stock is to be held for a short time. Fundamental analysis is more important when 
 * retaining the share for a longer period. The program should also be able to rank shares according to their value. Do not 
 * se only the shares that are available, but increase by at least one additional share when you find some interesting data.
+* For full description from KTH please see 187-Aktieköp.pdf.
 
 ### Extra assignments
 * grade C: Info is the complete and final handling of the user's input.
