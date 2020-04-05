@@ -1,5 +1,6 @@
 # DD1318 Programming techniques and technical calculations
-      
+    
+### Learning 
 * Programming in a modern programming language. Data structures and classes. Problem solving by division into subproblems.  * Program structuring. Several smaller programming tasks as well as a larger, individual programming task with great
 * emphasis on structuring and specification of the included modules.
 * Full course description [here](https://www.kth.se/student/kurser/kurs/DD1318)
